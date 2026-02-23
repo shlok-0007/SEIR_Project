@@ -1,4 +1,4 @@
-# Webpage Simhash Comparator 🕸️🔍
+## SEIR Project 
 
 A powerful Python tool designed to measure the textual and structural similarity between any two webpages. Unlike standard scrapers, this tool handles modern, JavaScript-heavy websites by rendering them in a headless browser before extracting and comparing their contents using a **64-bit Simhash** algorithm.
 
